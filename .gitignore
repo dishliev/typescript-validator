@@ -1,0 +1,39 @@
+# Dependency directories
+/node_modules/
+/.pnp/
+.pnp.js
+
+# Environment variables
+.env
+
+# IDE files
+/.vscode/
+/.idea/
+/.vs/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Build files and folders
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp.js
+*.pnp.js
+*.pnp
+.idea/
+*.tgz
+
+# TypeScript specific
+*.tsbuildinfo
+*.tsv
+*.map
+
+# Misc
+*.bak
+*.tmp
+*.md
