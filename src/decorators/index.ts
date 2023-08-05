@@ -13,3 +13,4 @@ export { DateBeforeToday } from "./date/DateBeforeToday";
 export { DateAfterToday } from "./date/DateAfterToday";
 export { DateValidator, DateComparison } from "./date/DateValidator";
 export { StringLength } from "./string/StringLength";
+export { IsBase64 } from "./string/IsBase64";
